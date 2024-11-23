@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Next.js project focused on building dynamic UI components with Framer Motion and TypeScript.<br>👯 I’m looking to collaborate on open-source projects related to frontend development or React ecosystems.<br>🤝 I’m looking for help with optimizing server-side rendering (SSR) in Next.js for complex data.<br>🌱 I’m currently learning Three.js to integrate 3D graphics into web applications.<br>💬 Ask me about React, Tailwind CSS, and JavaScript frameworks—I’d be happy to share tips!<br>⚡ Fun fact: I can solve a Rubik's Cube in under two minutes and I don't like seafood. .
+🔭 I’m currently working on a Next.js project focused on building dynamic UI components with Framer Motion and TypeScript.<br>👯 I’m looking to collaborate on open-source projects related to frontend development or React ecosystems.<br>🤝 I’m looking for help with optimizing server-side rendering (SSR) in Next.js for complex data.<br>🌱  I’m currently learning Remix.js, focusing on nested routing, loaders, and actions for seamless user experiences.<br>💬 Ask me about React, Tailwind CSS, and JavaScript frameworks—I’d be happy to share tips!<br>⚡ Fun fact: I can solve a Rubik's Cube in under two minutes and I don't like seafood. .
 
 
 ## 🌐 Socials:
